@@ -9,8 +9,12 @@ A constraint satisfaction problem (CSP) to develop a timetable for a semester.
 ***Domains*** – The time slots each subject is possible to allocate and rooms
 
 ***Constraints***
-          - A subject can be assigned to only one of its possible time slots.
-          - Two compulsory subjects cannot be in the same time slot.
-          - optional subjects may be allocated to same slot with another subject.
-          - Two subjects who are assigned to same slot cannot be assigned to same room.
+
+          1. A subject can be assigned to only one of its possible time slots.
+          
+          2. Two compulsory subjects cannot be in the same time slot.
+          
+          3. optional subjects may be allocated to same slot with another subject.
+          
+          4. Two subjects who are assigned to same slot cannot be assigned to same room.
 
